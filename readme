@@ -1,0 +1,4 @@
+experimental tests: Swarm -> MioPersonale -> Preferiti
+
+- Run/Debug Configurations: my_mpc_swarm_mv.py + my_swarm_mv.py + pace_state_mv.py + Shell Script: roscore
+- Libraries: lib_mv.py, lib_plot_mv.py
